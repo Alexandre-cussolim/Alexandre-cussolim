@@ -1,13 +1,13 @@
 [![MasterHead](https://i.postimg.cc/N0WhB5Jr/banner-1.png)](https://github.com/Alexandre-cussolim)
 ### Olá 👋
 
-Eu sou o Alexandre Cussolim, sou um Programador Front-End, atualmente estou aprendendo e criando alguns projetos:
+Eu sou o Alexandre Cussolim, sou um Desenvolvedor Web, atualmente estou aprendendo programação e criando alguns projetos.
 <br>
 <br>
 <br>
 <br>
-Linguagens:
-- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/> Iniciando e aprendendo <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo"/> e <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
+Linguagens que estou programando e aprendendo:
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo"/> e <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
 <br>
 <br>
 Contatos:
